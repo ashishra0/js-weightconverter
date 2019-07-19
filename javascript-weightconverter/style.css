@@ -1,0 +1,30 @@
+body {
+  margin-top: 70px;
+  background: #333;
+  color: #000000;
+}
+
+.display-4 {
+  color: #00FFFF;
+}
+
+.card.card-primary {
+  background: #1E90FF;
+}
+
+.card.card-success {
+  background: #3CB371;
+}
+
+.card.card-danger {
+  background: #DC143C;
+}
+
+footer {
+  color: #fff;
+  text-align: center;
+}
+
+hr {
+  background-color: #FFFF00
+}
